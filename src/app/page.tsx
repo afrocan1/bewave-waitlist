@@ -44,7 +44,7 @@ export default function Home() {
         </h1>
 
         <p className="max-w-[675px] w-full text-center text-[18px] leading-7 pb-10 md:pb-2 z-10">
-          Bewave facilitates the connection between artists and major digital
+          The audience economy facilitates the connection between artists and major digital
           platforms, offering global distribution and specialized support.
         </p>
 
@@ -79,7 +79,7 @@ export default function Home() {
               globally. Our platform ensures better earnings, faster approvals,
               and dedicated support to make sure your artists have everything
               they need at every stage. Click on &quot;Join Us&quot; and
-              discover everything Bewave can do to take your artists to the next
+              discover everything audience economy can do to take your artists to the next
               level.
             </p>
           </div>
@@ -102,7 +102,7 @@ export default function Home() {
             We deliver your content to more than 75 stores worldwide
           </h3>
           <p className="text-[15px] leading-7">
-            Bewave partners with the leading music distribution platforms around
+            The audience economy partners with the leading music distribution platforms around
             the world, including Spotify, YouTube, Deezer, and many others. We
             offer numerous advantages to maximize the visibility of your
             content. Our platform ensures a strong and efficient relationship
@@ -144,7 +144,7 @@ export default function Home() {
             Simple and Intuitive Dashboard
           </h3>
           <p className="text-[15px] leading-7">
-            Bewave was developed to simplify and focus on what truly matters for
+            The audience economy was developed to simplify and focus on what truly matters for
             our clients. Every step, from uploading your first track to
             distribution in stores, comes with interactive and real-time
             tutorials. We don’t display unnecessary or cluttered information on
@@ -164,7 +164,7 @@ export default function Home() {
             We Value Efficiency
           </h3>
           <p className="text-[15px] leading-7 mb-5">
-            Say goodbye to the standard distribution process. With Bewave, you
+            Say goodbye to the standard distribution process. With audience economy, you
             can license your content in just a few hours without worrying about
             the long approval times other distributors require. License your
             content and see it available in selected stores the same day.
