@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import bewave from '../../public/logo-wordmark.png'
+import bewave from '../../public/audience economy (5).png'
 
 export function Footer() {
   return (
@@ -21,11 +21,11 @@ export function Footer() {
             href="/terms-of-use"
             className="text-sm text-[#999] hover:text-marfin hover:underline focus:text-marfin focus:underline underline-offset-2 transition-all duration-200"
           >
-            Termos de uso
+            Terms of use
           </Link>
         </div>
       </div>
-      &copy; 2024 Bewave, All Rights Reserved.
+      &copy; 2025 The audience economy, All Rights Reserved.
     </footer>
   )
 }
