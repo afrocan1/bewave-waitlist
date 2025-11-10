@@ -39,11 +39,11 @@ export const metadata: Metadata = {
       url: 'https://github.com/PietroRhyan',
     },
   ],
-  applicationName: 'Bewave',
+  applicationName: 'The audience economy',
   icons: {
-    icon: './favicon.ico',
-    apple: './logo-bewave-apple-icon.png',
-    shortcut: './logo-bewave-apple-icon.png',
+    icon: './audience economy (1).png',
+    apple: './audience economy (1).png',
+    shortcut: './audience economy (1).png',
   },
 }
 
