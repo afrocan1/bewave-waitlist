@@ -37,7 +37,7 @@ export default function Home() {
     <main className="max-w-[1060px] w-full mx-auto">
       <div className="flex flex-col items-center justify-center h-[500px] sm:h-[480px] gap-2">
         <h1 className="text-[45px] font-bold text-center">
-          The Future Of {' '}
+          The Future Of{' '}
           <span className="gradient-text text-transparent animate-gradient">
             Distribution
           </span>
